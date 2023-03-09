@@ -9,7 +9,7 @@
 <body>
     <form method="get"  action="tabuada2.php" >
     <input type="text" name="Numero" placeholder="Sua Numero">
-    <button id="btnidade" type="submit"></button>
+    <button id="btnidade" type="submit">Digite seu Nomero</button>
     </form>
     
     
